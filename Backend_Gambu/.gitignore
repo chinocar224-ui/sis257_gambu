@@ -1,0 +1,13 @@
+/dist
+/node_modules
+/.pnp
+.pnp.js
+logs
+*.log
+.DS_Store
+/coverage
+/.nyc_output
+/.idea
+.vscode/*
+!.vscode/settings.json
+.env
